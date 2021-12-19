@@ -1,0 +1,19 @@
+.vscode/
+.code-workspace
+target/
+
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+package-lock.json
+config.json
+node_modules/
+.env
